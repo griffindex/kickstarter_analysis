@@ -14,11 +14,11 @@ This project visualizes campaign outcomes in the Plays category based on their l
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-The worksheet 'Comes Based on Launch Date contains a pivot table with the following fields in these areas.
+The worksheet 'Outcomes Based on Launch Date contains a pivot table with the following fields in these areas.
 Parent category is filtered by theatre. Outcomes is the pivot table column headings. Rows are merged into Month abbreviated by the first three letters. Values is the count of outcomes within the theater filter. Overall theater campaigns successfully reached their goals during each month of the year. The month with the most campaigns was May and the month with the least campaigns was December. Since May had the most overall campaigns, it also had the most failed and the most successful campaigns.
 
 ### Analysis of Outcomes Based on Goals
-This worksheet breaks down the currency goals of Kickstarters filtered by the Subcategory 'Plays'. The rows are divided by the Outcome column in the Kickstarter worksheet. There are 1065 campains in this Subcategory. Campaigns with a goal between 1000 and 4999 were 73% successful, which is the highest percentage of success.
+This worksheet breaks down the currency goals of Kickstarters filtered by the Subcategory 'Plays'. The rows are divided by the Outcome column in the Kickstarter worksheet. There are 1065 campaigns in this Subcategory. Campaigns with a goal between 1000 and 4999 were 73% successful, which is the highest percentage of success.
 
 
 
